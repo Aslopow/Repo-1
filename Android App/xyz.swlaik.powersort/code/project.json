@@ -1,0 +1,47 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "030557F8-2",
+    "build_number": 2,
+    "build_time": 1660534596822,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "From Aslopow",
+    "stableMode": true
+  },
+  "main": "main.js",
+  "name": "Power Supply Setting_电源管理",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "xyz.swlaik.powersort",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "publish": {
+    "category": "实用工具",
+    "details": "控制MIUI12.5电源开关",
+    "maxAutoJsVersion": -1,
+    "maxProVersion": 8089999,
+    "minAutoJsVersion": -1,
+    "minProVersion": 8080000,
+    "minSdkVersion": 2,
+    "permissions": [],
+    "summary": "MIUI12.5电源控制台",
+    "tags": []
+  },
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "1.0.0"
+}
