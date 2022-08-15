@@ -5,4 +5,4 @@ if (res.statusCode != 200) {
 }
 files.writeBytes("/sdcard/1.png", res.body.bytes());
 toast("下载成功 Finish");
-app.viewFile("/sdcard/Main.png");
+app.viewFile("/sdcard/1.png");
