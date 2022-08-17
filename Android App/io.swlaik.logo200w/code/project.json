@@ -1,0 +1,52 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "7156C248-5",
+    "build_number": 5,
+    "build_time": 1660736029459,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/icon.png",
+  "launchConfig": {
+    "displaySplash": false,
+    "hideLogs": true,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "From Aslopow",
+    "stableMode": false
+  },
+  "main": "main.js",
+  "name": "200wLOGO",
+  "optimization": {
+    "removeAccessibilityService": false,
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "io.limzat.logo200w",
+  "permissionConfig": {
+    "requestListOnStartup": [
+      "android.permission.WRITE_EXTERNAL_STORAGE"
+    ]
+  },
+  "publish": {
+    "category": "实用工具",
+    "details": "使用canvas绘图",
+    "maxAutoJsVersion": -1,
+    "maxProVersion": 9002000,
+    "minAutoJsVersion": -1,
+    "minProVersion": 8060000,
+    "minSdkVersion": 4,
+    "permissions": [],
+    "summary": "生成小米200w同款logo",
+    "tags": []
+  },
+  "scripts": {},
+  "signingConfig": {
+    "alias": "",
+    "keystore": "",
+    "uuid": ""
+  },
+  "versionCode": 1,
+  "versionName": "1.0.0-Beta"
+}
